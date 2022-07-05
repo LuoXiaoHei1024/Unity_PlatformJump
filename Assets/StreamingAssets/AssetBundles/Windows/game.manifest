@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 2074059918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87888e042048d687adfeba04eb5df4f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a3d791069726053d6e3902658d8b6d6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a8b9fcf30617744be5f0e8278dcacb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffca7687b965d8a459f819fdbe0e0713, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd4fbf8708d20443aa36b8e1f72bddb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40be5a25f7dc93b46911d55b0e3cc6ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e6528505bc47e84ab0b79b8d7923d6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 324b9af6a9e3e3848b56c97ff46e36c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49f4a29e7bbb80440be5b130b19c314e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6124b10d2495f4d4fbf2a2b1f31005d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 571422a103ecc124ba4f1830dc62e817, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2766db35c5237a4b970bd4cd936c575, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9509c7c9dfa49a342a3d050d4ad85a00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c376cea9388642d4a8b31e63983d8873, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c08b5322417dce24cb0ab6e9084dcb91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fbdf1ef21da58043b762f6fccf37963, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5f0db3acaeb1c44c800960ef1ef530e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9790d7daa28605b4f878ebe39bc10e39, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Game/GameMap.prefab
+- Assets/Prefabs/Game/DisappearPlatformC.prefab
+- Assets/Prefabs/Game/FallStone.prefab
+- Assets/Prefabs/Game/Main Camera.prefab
+- Assets/Prefabs/Game/BlankPlatform.prefab
+- Assets/Prefabs/Game/Spikes.prefab
+- Assets/Res/Prefabs/Game/Player.prefab
+- Assets/Prefabs/Game/Cherry.prefab
+- Assets/Prefabs/Game/Saw.prefab
+- Assets/Prefabs/Game/ChangeCameraPos.prefab
+- Assets/Prefabs/Game/MovePlatform.prefab
+- Assets/Prefabs/Game/House.prefab
+- Assets/Prefabs/Game/WoodenSign.prefab
+- Assets/Prefabs/Game/SpikesTop.prefab
+- Assets/Prefabs/Game/Spring.prefab
+Dependencies: []

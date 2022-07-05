@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 3243023537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b137c62c25540b6fc64eca7d11a7e9c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1631d68dce57634b6392c05e74b9a900
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39f3d3e0e0e2d8143a349d988f9c7b3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c28450a1208e5744835780c664167b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5ecf53a6f6ddc640bd949c268989297, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1a2279905b6bd44cb5a97a07e668d27, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73e679966087df7419a0aeefd8270fb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd7407a10a69c34489dae4a09654a846, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97dc1a310d87ade4d9818c1ae4365631, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fd37e4aa01aad14eb413c99262bc240, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a5d7b5f2f70aa6459595d5866236f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9797ff5415eab2c449c502fe18817d4f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8feb25b84a4b35f4c915d49cc223013b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Prefabs/UI/Btn_CustomKey.prefab
+- Assets/Res/Prefabs/UIPanel/GameMenuPanel.prefab
+- Assets/Res/Prefabs/UIPanel/GameOptionPanel.prefab
+- Assets/Res/Prefabs/UIPanel/AchievementPanel.prefab
+- Assets/Res/Prefabs/UIPanel/AdventurePanel.prefab
+- Assets/Res/Prefabs/UIPanel/ChooseLevelPanel.prefab
+- Assets/Res/Prefabs/UI/Archive.prefab
+- Assets/Res/Prefabs/UI/Achievement.prefab
+- Assets/Res/Prefabs/UIPanel/OptionPanel.prefab
+- Assets/Res/Prefabs/UIPanel/MenuPanel.prefab
+- Assets/Res/Prefabs/UI/Tex_Audio.prefab
+Dependencies:
+- F:/Unity WorkSpace/Platform Jump/Assets/StreamingAssets/AssetBundles/Windows/image_ui

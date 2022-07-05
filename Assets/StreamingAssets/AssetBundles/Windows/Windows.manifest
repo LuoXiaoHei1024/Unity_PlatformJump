@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 526218784
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sounds
+      Dependencies: {}
+    Info_1:
+      Name: image_ui
+      Dependencies: {}
+    Info_2:
+      Name: uipanel
+      Dependencies:
+        Dependency_0: image_ui
+    Info_3:
+      Name: game
+      Dependencies: {}

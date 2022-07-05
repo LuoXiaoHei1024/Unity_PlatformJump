@@ -1,0 +1,28 @@
+/*****************************************************
+    文件：#SCRIPTNAME#.cs
+    作者：#UserName#
+    邮箱：#Email#
+    日期：#CreateTime#
+    功能：Nothing
+*****************************************************/
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        #NOTRIM#
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#

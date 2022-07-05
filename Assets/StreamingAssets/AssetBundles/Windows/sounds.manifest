@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1371365930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d51828598e4ff854948709e0d5e12da7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Sounds/Bgm/BGM_04.wav
+- Assets/Res/Sounds/Player/Jump.wav
+- Assets/Res/Sounds/UI/Click.wav
+- Assets/Res/Sounds/Bgm/BGM_01.wav
+- Assets/Res/Sounds/Bgm/BGM_02.wav
+- Assets/Res/Sounds/Bgm/BGM_03.wav
+Dependencies: []
